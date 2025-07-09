@@ -6,7 +6,7 @@ This is a **fully responsive Netflix clone** built using **HTML and CSS only**. 
 ---
 
 > **Live-Demo:**  
-> 🔗 [https://om-pramod-kumar.github.io/College-Website/](https://om-pramod-kumar.github.io/College-Website/)
+> 🔗 (https://project-clone01.netlify.app/)
 
 ---
 
