@@ -45,10 +45,9 @@ Netflix-Clone/
 ## 💡 How to Use
 
 1. **Clone the repository**
-   ```
-   git clone https://github.com/nitishkumar1407/Netflix-Clone-Using-HTML-CSS-Fully-Responsive-.git
-
-      ```
+```
+git clone https://github.com/nitishkumar1407/Netflix-Clone-Using-HTML-CSS-Fully-Responsive-.git
+```
 2. **Navigate to the project directory**
 
 ```
