@@ -1,0 +1,37 @@
+@media screen and (max-width: 1300px) {
+  nav {
+    max-width: 95vw;
+  }
+  
+  .hero-buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  .first {
+    flex-wrap: wrap;
+  }
+  .secImg img {
+    width: 305px;
+  }
+  .secImg video {
+    width: 305px;
+  }
+
+  .hero > :nth-child(1) {
+    font-size: 32px;
+  }
+  .hero > :nth-child(2) {
+    font-size: 18px;
+  }
+
+  .footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: white;
+    gap: 20px;
+  }
+}
